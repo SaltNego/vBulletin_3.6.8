@@ -1,0 +1,90 @@
+<html>
+<head>
+	<title>vBulletin 许可协议</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<link rel="stylesheet" type="text/css" href="http://files.vbulletin-china.cn/vbulletin.css" />
+</head>
+<body>
+
+<div class="tborder">
+	<div class="tcat">vBulletin 许可协议</div>
+	<div class="alt1">
+		<p>vBulletin (“本软件”) 的版权属原作者所有，且受到与数据库相关的法律保护。无论其哪种拷贝，Jelsoft 都保留对 vBulletin 及其任何拷贝的所有权。本许可证并不出售 vBulletin 及其任何拷贝的版权。</p>
+		
+		<p>在您的服务器上安装和运行 vBulletin，意味着无论您个人或是您代表您所在的实体，同意并遵循以下的条款。本协议中，“您”包括个人和实体；Jelsoft 表示 Jelsoft Enterprises 有限公司。</p>
+		
+		<ul>
+			<li>购买一份 vBulletin 许可证后，您被授权在一台服务器和一个网站上运行vBulletin。一份许可证仅允许在一种场合下和一个域名下使用vbulletin。如果在另外的场 合下使用 vBulletin，则需要另购一份许可证。为规避一份许可证许可一种使用的规则，而对软件和数据库的任何修改都是被禁止的。</li>
+			<li>vBulletin 的许可证仅仅许可给您。在事先取得 Jelsoft 的同意之前，无论在临时或永久的基础上，您都不能出租、租借、再许可、出售、让渡、抵押、转让或以任何其他方式处理 vBulletin。</li>
+			<li>如果您持有有效的软件许可证，您可能需要设置一个测试的论坛用来测试修改代码，模版和数据库。为了不让我们产生误会和不违背许可证协议，请将测试用论坛放在名为“testvb”的目录下，并且设置密码保护。请务必确认论坛不能被公开访问。</li>
+			<li>永久使用许可证如无被终止则始终有效。您可以随时卸载 vbulletin 和销毁其任何形式的副本来终止许可证。</li>
+			<li>您需要承担以下责任：
+			  <ul>
+					<li>请确认，在您的雇员或代理人使用 vBulletin 前，本协议已经告知了当事人。</li>
+					<li>控制所有的数据（包括对象和源代码）、软件清单以及其他所有和 vBulletin 相关的需保密的信息。在许可证有效或失效的任何时期内，没有 Jelsoft 的许可不得把这些资料透露给第三方。</li>
+					<li>不将此软件使用在非法目的，应当遵守任何可适用的法律。</li>
+				</ul>
+			</li>
+			<li>Jelsoft 可能允许您在下面的情况下将您的软件许可证转让给第三方：
+				<ul>
+					<li>在过去的 12 个月中没有被转让过。</li>
+					<li>购买时间超过 3 个月。</li>
+					<li>是一个活跃的永久使用许可证。</li>
+				</ul>
+			</li>
+			<li>所有的客户必须提交每份 vBulletin 许可证的论坛所使用或将使用的 URL 网址。该网址可以通过 vBulletin 客户区提交。</li>
+			<li>vBulletin 的源代码可以修改，不过所造成的风险由您承担。</li>
+			<li>在模版中所有软件的版权注释都必须保留，并在网页上可见。</li>
+			<li>vBulletin 不能被用作任何与违反知识产权有关的场合，从事破坏或盗用知识产权方面的活动，包括对著作权、商标、服务标记、行业秘密、软件盗版、以及个人、公司或其他任何实体持有的专利权的损害，等等。</li>
+			<li>如果违反了本协议中的任何一条条款，Jelsoft 有权在任何时候收回软件许可证。</li>
+			<li>退款与否以及其数额将由 Jelsoft 来决定。</li>
+			<li>Jelsoft 对在 vBulletin-China.cn 购买的许可证仅提供中文支持。</li>
+		</ul>
+
+		<p>如果您还安装并使用 Project Tools，您需要同意如下附加条款。</p>
+
+		<ul>
+		<li>安装和使用 Project Tools，表明您同意所有 vBulletin 许可协议中的条款同样应用于 Project Tools，“软件”的定义自动包括 Project Tools。</li>
+		<li>Project Tools 被许可只给您与 vBulletin 论坛软件联合使用，不可被整合到任何除其它 vBulletin 插件产品和修改以外的第三方独立软件程序。</li>
+		<li>您的 Project Tools 使用许可证只有在您继续持有有效的 vBulletin 使用许可证时才是有效的，并且不可与该许可证脱离。一旦您的 vBulletin 被转让，您的 Project Tools 许可证也会被同时转让。类似的，如果您的 vBulletin 许可证被中止，您的 Project Tools 许可证也会被同时中止。</li>
+		</ul>
+
+
+  </div>
+	<div class="thead">免责声明</div>
+	<div class="alt1">
+		<p><strong>本软件及附加的文件销售时并不具有性能担保书以及任何其他的隐含的或表达的保证。</strong></p>
+		
+		<p>Jelsoft 不监视使用本软件创建的论坛。Jelsoft 不对任何本软件创建的论坛上张贴的信息内容负责。</p>
+		
+		<p><strong>Jelsoft 不对以下任何情况负责：<br>
+1．您的任何传输失败。<br>
+2．出于任何的原因而导致的传输失败，传输延误或者传输形式不能识别。</strong></p>
+		
+		<p><strong>您必须承担使用本软件的全部风险。JELSOFT 的责任只限于更换产品，退回货款。</strong></p>
+		
+		<p><strong>除由 Jelsoft 的疏忽直接导致的人身伤亡之外，Jelsoft 不对任何由于使用或未能使用本软件导致的损失负责，包括利润损失，储蓄损失，数据丢失以及任何间接的，特别的，偶然的损失，即使 Jelsoft 已经被告知过有这种损失的可能性。</strong></p>
+		
+		<p>该许可赋予您明确的法律权利，您也可能拥有其他一些权利，各国情况不一。由于某些国家或地区的法律不允许责任的某种限制和免除，以上的限制或免除可能会对 您不适用。其他一些国家和地区对责任的限制和免除要取决一些具体情况，在这种情况下，以上责任限制或免除将在法律规定下完全有效。若以上责任限制或免除的 任何一部分被认为无效或不能执行，则此部分应被视为从该协议中删除。该协议其他部分仍将被视为完全有效。您作为消费者（即私人购买使用者，非商业，学术或 政府使用）的任何权力不受影响。</p>
+		
+  </div>
+	<div class="thead">常规</div>
+	<div class="alt1">
+		<p>有时，在没有您的服务器或您的使用者的相关信息的情况下，Jelsoft 可能检查您注册信息的完整性和真实性。您的许可证号和 vBulletin 论坛运行的域名是唯一可用于检验查证的信息。如果 Jelsoft 发现实际情况与注册信息有不符之处，则您可能面临失去许可证和针对软件盗版的法律手段。您的信息将不会被第三方所见。偶尔，出于安全和性能调节方面的考虑，您的 IP 地址需要被记录。</p>
+		
+		<p>请注意，我们将反盗版的事务委托给 Pirate Reports。为了确认您许可证的合法性，他们可能通过 &#064;vbulletin.com 或 &#064;piratereports.com 的电子邮件和您联系。</p>
+		
+		<p>此协议书为您与 Jelsoft 达成的完整协议声明，其效力高于所有的阐述、理解或先前您和 Jelsoft 达成的协定。</p>
+		
+		<p>Jelsoft 保留随时修改以上条款的权力。</p>
+		
+		<p>本协议受国际公约和中华人民共和国相关法律的保护。</p>
+
+		<p>vBulletin&reg; 是 Jelsoft Enterprises Ltd. 的注册商标。</p>
+
+		<p>若中文版许可协议与英文版含义有出入，与英文版为准。</p>
+  </div>
+</div>
+
+</body>
+</html>
